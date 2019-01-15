@@ -21,5 +21,12 @@ public class formula {
 		JOptionPane.showMessageDialog(null, "Para A= "+a+
 				"\nB="+b+"\nC="+c+"\nDelta = "+delta+
 				"\nX1 ="+x1+"\nX2 ="+x2);
+
+		System.out.println("Para A= "+a);
+		System.out.println("B="+b);
+		System.out.println("C="+c);
+		System.out.println("Delta = "+delta);
+		System.out.println("X1 ="+x1);
+		System.out.println("X2 ="+x2);
 	}
 }
